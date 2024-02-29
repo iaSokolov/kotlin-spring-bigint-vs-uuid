@@ -1,1 +1,1 @@
-rootProject.name = "kotlin-spring-jpa-db"
+rootProject.name = "kotlin-spring-bigint-vs-uuid"
